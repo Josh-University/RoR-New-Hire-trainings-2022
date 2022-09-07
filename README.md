@@ -1,1 +1,1 @@
-# RoR-July-2022-trainings
+# RoR-2022-New Hire trainings
